@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "hashtable.h": "c",
+    "stdio.h": "c",
+    "mergesort.h": "c",
+    "binarysearch.h": "c",
+    "findmax.h": "c",
+    "array-util.h": "c"
+  }
+}
